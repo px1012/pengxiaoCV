@@ -138,7 +138,7 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 	padding:6em 0;
 }
 h3.title {
-    font-size: 4em;
+    font-size: 5em;
     text-align: center;
     color: #008B8B;
     border-bottom: 4px double rgba(247, 197, 106, 0.35);
@@ -153,9 +153,9 @@ h4.position{
 	margin-bottom: 1em;
 }
 p {
-    font-size: 1em;
+    font-size: 1.1em;
     color: #999;
-    line-height: 1.8em;
+    line-height: 2.1em;
 }
 .about-right {
     padding-left: 5em;
@@ -247,7 +247,7 @@ p {
     z-index: 9;
 }
 .work-right.work-right2 {
-    min-height: 210px;
+    min-height: 300px;
     float: right;
 }
 .work-right.work-right2 h4:before {
@@ -657,7 +657,7 @@ h2.resp-accordion {
     padding: 5em 0;
 }
 .work-right.work-right2 {
-    min-height: 200px;
+    min-height: 300px;
 }
 .work-right {
     padding: 2.5em 0 1em 6em;
