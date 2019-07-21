@@ -44,7 +44,7 @@ body a:hover{
 	padding: 4em 0;
 }
 .header-left img {
-    width: 100%;
+    width: 70%;
     border: 5px solid rgba(255, 255, 255, 0.68);
 }
 .header-right {
@@ -155,7 +155,7 @@ h4.position{
 p {
     font-size: 1.1em;
     color: #999;
-    line-height: 2.1em;
+    line-height: 2.5em;
 }
 .about-right {
     padding-left: 5em;
